@@ -1,0 +1,7 @@
+require "./spec_helper"
+require "./duration_spec"
+require "./errors_spec"
+require "./builder_spec"
+require "./drip_spec"
+require "./macros_spec"
+require "./concurrency_spec"

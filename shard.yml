@@ -1,0 +1,15 @@
+name: cr-drip
+version: 0.1.0
+
+authors:
+  - Adam Beck <adamb3189@gmail.com>
+
+crystal: ">= 1.21.0"
+
+license: MIT
+
+description: |
+  A lightweight, thread-safe sliding window rate limiting and throttling shard for Crystal
+  with fluent builder, wait budgets, and declarative macro-wrapped instance methods.
+
+repository: https://github.com/Gwash3189/cr-drip
